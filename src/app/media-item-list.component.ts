@@ -48,6 +48,14 @@ export class MediaItemListComponent {
       year: 2015,
       watchedOn: 1457166565384,
       isFavorite: false
+    }, {
+      id: 6,
+      name: 'Love and Basketball',
+      medium: 'Movies',
+      category: 'Romance',
+      year: 2007,
+      watchedOn: null,
+      isFavorite: true
     }
   ];
 
